@@ -1,0 +1,15 @@
+body {
+  background-color: white;
+}
+
+.imglover {
+  float: left;
+}
+ul li {
+  display: inline;
+  background-color: black;
+  color: white;
+}
+a {
+  color: white;
+}
